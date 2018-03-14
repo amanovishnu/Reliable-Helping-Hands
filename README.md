@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Creative Preview](img/portfolio/preview/Preview Image.png)](img/portfolio/preview/Preview Image.png)
+[![Creative Preview](https://github.com/amanovishnu/Reliable-Helping-Hands/blob/master/img/portfolio/preview/Preview%20Image.PNG)](img/portfolio/preview/Preview Image.png)
 
 **[View Live Preview](https://amanovishnu.github.io/Reliable-Helping-Hands/index.html)**
 
